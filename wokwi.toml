@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/tempor_disp.hex'
+elf = 'build/tempor_disp.elf'
